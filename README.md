@@ -1,0 +1,1 @@
+# aws_textract_python_connection
